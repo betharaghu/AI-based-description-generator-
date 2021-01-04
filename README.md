@@ -8,5 +8,5 @@ for first model Resnet(https://tfhub.dev/tensorflow/resnet_50/classification/1) 
 for second model VGG 19(https://www.tensorflow.org/api_docs/python/tf/keras/applications/VGG19) is used 
 
 # Colab links 
-MOdel 1 : https://colab.research.google.com/drive/1Dw7Kt90ICwYkkCVtXehvpNHvPnVjjIuL?usp=sharing
+Model 1 : https://colab.research.google.com/drive/1Dw7Kt90ICwYkkCVtXehvpNHvPnVjjIuL?usp=sharing
 
