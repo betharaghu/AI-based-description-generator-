@@ -8,7 +8,7 @@ for first model Resnet(https://tfhub.dev/tensorflow/resnet_50/classification/1) 
 for second model VGG 19(https://www.tensorflow.org/api_docs/python/tf/keras/applications/VGG19) is used 
 
 # Colab links 
-<a href=" https://colab.research.google.com/drive/1Dw7Kt90ICwYkkCVtXehvpNHvPnVjjIuL?usp=sharing">
+<a href=" https://github.com/betharaghu/recolor-of-image-using-openCV/blob/main/cv2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 Model 1 : https://colab.research.google.com/drive/1Dw7Kt90ICwYkkCVtXehvpNHvPnVjjIuL?usp=sharing
